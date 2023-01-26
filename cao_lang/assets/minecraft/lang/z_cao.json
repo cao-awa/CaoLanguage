@@ -161,7 +161,158 @@
     "death.attack.outOfWorld": "%1$s掉出了这个Sekai",
     "deathScreen.titleScreen": "爷不玩辣",
     "deathScreen.quit.confirm": "真的假的？",
+    "menu.respawning": "正在复活",
     // Death - 死亡
+    // End here - 到此结束
+
+    // Beacon - 信标
+    "block.minecraft.beacon": "培根",
+    "container.beacon": "培根",
+    
+    "subtitles.block.beacon.activate": "培根：激活",
+    "subtitles.block.beacon.ambient": "培根：嗡嗡",
+    "subtitles.block.beacon.deactivate": "培根：失效",
+    "subtitles.block.beacon.power_select": "培根：选择效果",
+    
+    "advancements.nether.create_beacon.description": "放个培根",
+    "advancements.nether.create_beacon.title": "带培根回家",
+    "advancements.nether.create_full_beacon.description": "让一个培根发挥最大功效",
+    "advancements.nether.create_full_beacon.title": "培根工程师",
+    // Beacon - 信标
+    // End here - 到此结束
+
+    // Wheat - 小麦
+    "item.minecraft.wheat": "麦",
+    "item.minecraft.wheat_seeds": "麦.torrent",
+    "block.minecraft.wheat": "麦",
+    "block.minecraft.hay_block": "麦块",
+    // Wheat - 小麦
+    // End here - 到此结束
+
+    // Sand - 沙子
+    "block.minecraft.sand": "悲伤",
+    "block.minecraft.sandstone": "沙石",
+    "block.minecraft.sandstone_slab": "沙石半砖",
+    "block.minecraft.sandstone_stairs": "沙石楼梯",
+    "block.minecraft.sandstone_wall": "沙石墙",
+    "block.minecraft.smooth_sandstone": "滑溜溜沙石",
+    "block.minecraft.smooth_sandstone_slab": "滑溜溜沙石半砖",
+    "block.minecraft.smooth_sandstone_stairs": "滑溜溜沙石楼梯",
+    "block.minecraft.chiseled_sandstone": "劂过的沙石",
+    "block.minecraft.cut_sandstone": "切过的沙石",
+    "block.minecraft.cut_sandstone_slab": "切过的沙石半砖",
+
+    "block.minecraft.red_sand": "红色悲伤",
+    "block.minecraft.red_sandstone": "红沙石",
+    "block.minecraft.red_sandstone_slab": "红沙石半砖",
+    "block.minecraft.red_sandstone_stairs": "红沙石楼梯",
+    "block.minecraft.red_sandstone_wall": "红沙石墙",
+    "block.minecraft.smooth_red_sandstone": "滑溜溜红沙石",
+    "block.minecraft.smooth_red_sandstone_slab": "滑溜溜红沙石半砖",
+    "block.minecraft.smooth_red_sandstone_stairs": "滑溜溜红沙石楼梯",
+    "block.minecraft.chiseled_red_sandstone": "劂过的红沙石",
+    "block.minecraft.cut_red_sandstone": "切过的红沙石",
+    "block.minecraft.cut_red_sandstone_slab": "切过的红沙石半砖",
+    // Sand - 沙子
+    // End here - 到此结束
+
+    // Lightning rod - 避雷针
+    "block.minecraft.lightning_rod": "雷霆之杖",
+    // Lightning rod - 避雷针
+    // End here - 到此结束
+
+    // Bastion - 堡垒遗迹
+    "advancements.nether.find_bastion.description": "进入堡垒废墟",
+    "advancements.nether.find_bastion.title": "废墟也有人住",
+    // Bastion - 堡垒遗迹
+    // End here - 到此结束
+
+    // Lava - 熔岩
+    "block.minecraft.lava": "Java",
+    // Lava - 熔岩b
+    // End here - 到此结束
+
+    // Minecart - 矿车
+    "item.minecraft.minecart": "《我的世界》",
+    "entity.minecraft.minecart": "《我的世界》",
+
+    "subtitles.entity.minecart.riding": "《我的世界》：运行中",
+    // Minecart - 矿车
+    // End here - 到此结束
+
+    // Cookie - 曲奇
+    "item.minecraft.cookie": "HTTP Cookie",
+    // Cookie - 曲奇
+    // End here - 到此结束
+
+    // Chest - 箱子
+    "block.minecraft.chest": "胸部",
+    "container.chest": "胸部",
+    "container.chestDouble": "大型胸部",
+    
+    "subtitles.block.chest.close": "胸部：关掉",
+    "subtitles.block.chest.locked": "：锁上",
+    "subtitles.block.chest.open": "胸部：打开",
+
+    "advancements.nether.loot_bastion.description": "掠夺堡垒废墟里的胸部",
+    "advancements.nether.loot_bastion.title": "不是你想的这样",
+
+    "entity.minecraft.chest_boat": "装有胸部的船",
+    "entity.minecraft.chest_minecart": "装有胸部的《我的世界》",
+    // Chest - 箱子
+    // End here - 到此结束
+
+    // Trapped chest - 陷阱箱
+    "block.minecraft.trapped_chest": "弇胸部",
+    // Trapped chest - 陷阱箱
+    // End here - 到此结束
+
+    // Donkey - 驴
+    "subtitles.entity.donkey.chest": "阿米娅：安装胸部",
+    // Donkey - 驴
+    // End here - 到此结束
+
+    // Llama - 羊驼
+    "subtitles.entity.llama.chest": "口水羊：安装胸部",
+    // Llama - 羊驼
+    // End here - 到此结束
+
+    // Mule - 骡
+    "subtitles.entity.mule.chest": "螺：安装胸部",
+    // Mule - 骡
+    // End here - 到此结束
+
+    // Stone - 石
+    "block.minecraft.stone": "石",
+    "block.minecraft.stone_brick_slab": "石砖半砖",
+    "block.minecraft.stone_brick_stairs": "石砖楼梯",
+    "block.minecraft.stone_brick_wall": "石砖墙",
+    "block.minecraft.stone_bricks": "石砖",
+    "block.minecraft.stone_button": "石按钮",
+    "block.minecraft.stone_pressure_plate": "石踏板",
+    "block.minecraft.stone_slab": "石半砖",
+    "block.minecraft.stone_stairs": "石楼梯",
+    "block.minecraft.stonecutter": "切石机",
+
+    "block.minecraft.smooth_stone": "滑溜溜石",
+    "block.minecraft.smooth_stone_slab": "滑溜溜石半砖",
+    // Stone - 石
+    // End here - 到此结束
+
+    // Soul - 灵魂
+    "block.minecraft.soul_sand": "悲伤的灵魂",
+    // Soul - 灵魂
+    // End here - 到此结束
+
+    // Grass - 草
+    "block.minecraft.grass": "艹",
+    "block.minecraft.grass_block": "艹方块",
+    "block.minecraft.seagrass": "氦艹",
+    "block.minecraft.tall_grass": "高艹丛",
+    "block.minecraft.tall_seagrass": "高氦艹",
+    "biome.minecraft.savanna": "热die艹原",
+    "biome.minecraft.windswept_savanna": "风了的热die艹原",
+    // Grass - 草
     // End here - 到此结束
 
     // Sleep - 睡觉
@@ -314,13 +465,16 @@
 
     "item.minecraft.chicken": "生只因肉",
     "item.minecraft.cooked_chicken": "熟只因肉",
+
+    "item.minecraft.feather": "只因毛",
     // Chicken - 鸡
     // End here - 到此结束
 
     // Cod - 鳕鱼
+    "item.minecraft.cod_spawn_egg": "《使命召唤》",
     "item.minecraft.cod": "《使命召唤》",
-    "item.minecraft.cod_bucket": "《使命召唤》",
-    "item.minecraft.cooked_cod": "熟鳕鱼",
+    "item.minecraft.cod_bucket": "桶装的《使命召唤》",
+    "item.minecraft.cooked_cod": "熟的《使命召唤》",
     // Cod - 鳕鱼
     // End here - 到此结束
 
@@ -342,6 +496,8 @@
     // End here - 到此结束
 
     // Stat - 统计
+    "stats.tooltip.type.statistic": "监控",
+
     "gui.stats": "查监控",
     "stat.generalButton": "杂物",
     "stat.minecraft.interact_with_beacon": "与培根说话次数",
@@ -350,6 +506,10 @@
     "stat.minecraft.play_time": "玩的时间",
     "stat.minecraft.sleep_in_bed": "上床次数",
     "stat.minecraft.minecart_one_cm": "坐《我的世界》移动距离",
+    "stat.minecraft.deaths": "趋势次数",
+    "stat.minecraft.open_chest": "打开胸部次数",
+    "stat.minecraft.trigger_trapped_chest": "弇胸部触发次数",
+    "stat.minecraft.enchant_item": "物品覆膜次数",
 
     "stat.itemsButton": "东西",
     "stat_type.minecraft.broken": "用坏",
@@ -413,13 +573,11 @@
 
     // Spawn eggs - 刷怪蛋
     "item.minecraft.chicken_spawn_egg": "KUN",
-    "item.minecraft.allay_spawn_egg": "悦灵卵",
     "item.minecraft.bat_spawn_egg": "病毒窝",
     "item.minecraft.bee_spawn_egg": "蜜蜂卵",
     "item.minecraft.blaze_spawn_egg": "烈焰人卵",
     "item.minecraft.cave_spider_spawn_egg": "洞穴蜘蛛卵",
     "item.minecraft.cat_spawn_egg": "喵喵喵",
-    "item.minecraft.cod_spawn_egg": "《使命召唤》",
     "item.minecraft.cow_spawn_egg": "牛卵",
     "item.minecraft.creeper_spawn_egg": "aww~man~",
     "item.minecraft.dolphin_spawn_egg": "海豚卵",
@@ -430,7 +588,6 @@
     "item.minecraft.endermite_spawn_egg": "末影螨卵",
     "item.minecraft.evoker_spawn_egg": "唤魔者卵",
     "item.minecraft.fox_spawn_egg": "狐狸卵",
-    "item.minecraft.frog_spawn_egg": "青蛙卵",
     "item.minecraft.ghast_spawn_egg": "恶魂卵",
     "item.minecraft.glow_squid_spawn_egg": "发光鱿鱼卵",
     "item.minecraft.goat_spawn_egg": "山羊卵",
@@ -455,7 +612,6 @@
     "item.minecraft.rabbit_spawn_egg": "兔子卵",
     "item.minecraft.ravager_spawn_egg": "劫掠兽卵",
     "item.minecraft.squid_spawn_egg": "鱿鱼卵",
-    "item.minecraft.stray_spawn_egg": "流浪者卵",
     "item.minecraft.strider_spawn_egg": "炽足兽卵",
     "item.minecraft.tadpole_spawn_egg": "蝌蚪卵",
     "item.minecraft.trader_llama_spawn_egg": "行商羊驼卵",
@@ -470,10 +626,7 @@
     "item.minecraft.wither_skeleton_spawn_egg": "凋灵骷髅卵",
     "item.minecraft.wolf_spawn_egg": "狼卵",
     "item.minecraft.spider_spawn_egg": "蜘蛛卵",
-    "item.minecraft.slime_spawn_egg": "史莱姆卵",
     "item.minecraft.silverfish_spawn_egg": "蠹虫卵",
-    "item.minecraft.skeleton_horse_spawn_egg": "骷髅马卵",
-    "item.minecraft.skeleton_spawn_egg": "骷髅卵",
     "item.minecraft.shulker_spawn_egg": "潜影贝卵",
     "item.minecraft.salmon_spawn_egg": "鲑鱼卵",
     "item.minecraft.sheep_spawn_egg": "绵羊卵",
@@ -505,12 +658,25 @@
     "itemGroup.brewing": "酿",
     "itemGroup.decorations": "装饰一下",
     "itemGroup.food": "好吃的",
+    "itemGroup.materials": "材料",
+    "itemGroup.misc": "杂物",
+    "itemGroup.transportation": "转移",
     // Item groups - 物品组
+    // End here - 到此结束
+
+    // Unbreaking - 耐久
+    "enchantment.minecraft.unbreaking": "用不坏",
+    // Unbreaking - 耐久
     // End here - 到此结束
     
     "item.minecraft.string": "字符串",
 
-    "block.minecraft.frogspawn": "青蛙卵",
+    // Frog - 青蛙
+    "entity.minecraft.frog": "呱呱呱",
+    "item.minecraft.frog_spawn_egg": "呱呱呱",
+    "block.minecraft.frogspawn": "密恐去世器",
+    // Frog - 青蛙
+    // End here - 到此结束
 
     // Effects - 效果
     "effect.none": "没用",
@@ -551,6 +717,108 @@
     // Effects - 效果
     // End here - 到此结束
 
+    // Allay - 悦灵
+    "item.minecraft.allay_spawn_egg": "小安粒",
+    "entity.minecraft.allay": "小安粒",
+
+    "subtitles.entity.allay.ambient_with_item": "小安粒：找呀找",
+    "subtitles.entity.allay.ambient_without_item": "小安粒：想要",
+    "subtitles.entity.allay.death": "小安粒：啊我死了",
+    "subtitles.entity.allay.hurt": "小安粒：受伤",
+    "subtitles.entity.allay.item_given": "小安粒：嬉笑",
+    "subtitles.entity.allay.item_taken": "小安粒：偷税",
+    "subtitles.entity.allay.item_thrown": "小安粒：我丢",
+    
+    "advancements.husbandry.allay_deliver_cake_to_note_block.description": "让小安粒向音符盒投掷一块蛋糕",
+    "advancements.husbandry.allay_deliver_cake_to_note_block.title": "生日快乐",
+    "advancements.husbandry.allay_deliver_item_to_player.description": "让小安粒把物品丢给你",
+    "advancements.husbandry.allay_deliver_item_to_player.title": "找到一个好朋友",
+    // Allay - 悦灵
+    // End here - 到此结束
+
+    // Honey block - 蜂蜜块
+    "block.minecraft.honey_block": "黏糊糊的黄色恶心方块",
+    
+    "advancements.adventure.honey_block_slide.description": "贴着黏糊糊的黄色恶心方块滑下来",
+    "advancements.adventure.honey_block_slide.title": "满身黏液",
+   
+    "subtitles.block.honey_block.slide": "从黏糊糊的黄色恶心方块滑下",
+    // Honey block - 蜂蜜块
+    // End here - 到此结束
+
+    // Slime - 史莱姆
+    "item.minecraft.slime_ball": "黏糊糊的绿色鼻涕",
+    "item.minecraft.slime_spawn_egg": "黏糊糊的绿色生物",
+
+    "entity.minecraft.slime": "黏糊糊的绿色生物",
+
+    "subtitles.entity.slime.attack": "黏糊糊的绿色生物：攻击",
+    "subtitles.entity.slime.death": "黏糊糊的绿色生物：死了",
+    "subtitles.entity.slime.hurt": "黏糊糊的绿色生物：流出绿色黏液",
+    "subtitles.entity.slime.squish": "黏糊糊的绿色生物：挤压",
+   
+    "block.minecraft.slime_block": "黏糊糊的绿色恶心方块",
+    // Slime - 史莱姆
+    // End here - 到此结束
+
+    // Skeleton - 骷髅
+    "item.minecraft.skeleton_spawn_egg": "小白",
+    "item.minecraft.skeleton_horse_spawn_egg": "小白马",
+
+    "entity.minecraft.skeleton": "小白",
+    "entity.minecraft.skeleton_horse": "小白马",
+
+    "subtitles.entity.skeleton.ambient": "小白：咯咯声",
+    "subtitles.entity.skeleton.converted_to_stray": "骷髅：变成流浪汉",
+    "subtitles.entity.skeleton.death": "小白：散架",
+    "subtitles.entity.skeleton.hurt": "小白：受伤",
+    "subtitles.entity.skeleton.shoot": "小白：射",
+    "subtitles.entity.skeleton_horse.ambient": "小白马：大喊大叫",
+    "subtitles.entity.skeleton_horse.death": "小白马：散架",
+    "subtitles.entity.skeleton_horse.hurt": "小白马：受伤",
+    "subtitles.entity.skeleton_horse.swim": "小白马：游泳",
+
+    "block.minecraft.skeleton_skull": "小白头",
+    "block.minecraft.skeleton_wall_skull": "爬墙的小白头",
+    // Skeleton - 骷髅
+    // End here - 到此结束
+
+    // Enchantment - 附魔
+    "block.minecraft.enchanting_table": "覆膜台",
+    
+    "item.minecraft.enchanted_book": "覆膜书",
+    
+    "container.enchant": "覆膜",
+    "container.repair.cost": "覆膜收钱：%1$s",
+
+    "subtitles.block.enchantment_table.use": "覆膜台：覆膜",
+
+    "advancements.story.enchant_item.description": "在覆膜台里覆膜一样东西",
+    "advancements.story.enchant_item.title": "天桥覆膜师",
+    // Enchantment - 附魔
+    // End here - 到此结束
+
+    // Experience - 经验
+    "item.minecraft.experience_bottle": "经验瓶",
+    "entity.minecraft.experience_bottle": "经验瓶",
+    // Experience - 经验
+    // End here - 到此结束
+
+    // Stray - 流浪者
+    "item.minecraft.stray_spawn_egg": "流浪汉",
+    "entity.minecraft.stray": "流浪汉",
+
+    "subtitles.entity.stray.ambient": "流浪汉：咯咯",
+    "subtitles.entity.stray.death": "流浪汉：死亡",
+    "subtitles.entity.stray.hurt": "流浪汉：受伤",
+    // Stray - 流浪者
+    // End here - 到此结束
+
+    // Torch - 火把
+    "block.minecraft.torch": "手电筒",
+    // Torch - 火把
+    // End here - 到此结束
+
     // Paper - 纸
     "item.minecraft.paper": "手纸",
     // Paper - 纸
@@ -565,7 +833,7 @@
     // End here - 到此结束
 
     // Out of memory - 内存溢出
-    "outOfMemory.message": "麦恩克拉夫特已耗尽记忆体。\n\n可能是因为游戏有内鬼或者Java虚拟机的记忆体不够吃。\n为了避免存档爆炸，我们已经帮你关掉了。我们已开除不必要的员工表来使你可以继续van♂游戏。\n如果你再次看见记忆体炸了，那你不要玩了。",
+    "outOfMemory.message": "麦恩克拉夫特已耗尽记忆体。\n\n可能是因为游戏有内鬼或者Lava虚拟机的记忆体不够吃。\n为了避免存档爆炸，我们已经帮你关掉了。我们已开除不必要的员工表来使你可以继续van♂游戏。\n如果你再次看见记忆体炸了，那你不要玩了。",
     "outOfMemory.title": "记忆体炸了！",
     // Out of memory - 内存溢出
     // End here - 到此结束
@@ -576,6 +844,36 @@
     "item.minecraft.enchanted_golden_apple": "闪闪发光金平锅",
     // Apple - 苹果
     // End here - 到此结束
+
+    // Diamond - 钻石
+    "item.minecraft.diamond": "祖安石",
+    "item.minecraft.diamond_axe": "祖安石斧",
+    "item.minecraft.diamond_boots": "祖安石鞋",
+    "item.minecraft.diamond_chestplate": "祖安石衣服",
+    "item.minecraft.diamond_helmet": "祖安石帽",
+    "item.minecraft.diamond_hoe": "祖安石锄",
+    "item.minecraft.diamond_horse_armor": "祖安石马衣",
+    "item.minecraft.diamond_leggings": "祖安石裤子",
+    "item.minecraft.diamond_pickaxe": "祖安石镐",
+    "item.minecraft.diamond_shovel": "祖安石铲",
+    "item.minecraft.diamond_sword": "祖安石剑",
+
+    "advancements.story.mine_diamond.description": "获得祖安石",
+    "advancements.story.mine_diamond.title": "祖安石！",
+
+    "advancements.story.shiny_gear.description": "祖安石衣服能救人",
+    "advancements.story.shiny_gear.title": "祖安石护体",
+
+    "block.minecraft.deepslate_diamond_ore": "很深的祖安石矿",
+    "block.minecraft.diamond_block": "祖安石块",
+    "block.minecraft.diamond_ore": "祖安石矿",
+
+    "subtitles.item.armor.equip_diamond": "祖安石衣服：碰擦",
+    // Diamond - 钻石
+    // End here - 到此结束
+
+    //
+    "block.minecraft.deepslate_emerald_ore": "深层绿宝石矿石",
 
     // Night vision - 夜视
     "effect.minecraft.night_vision": "莎普爱思滴眼睛",
@@ -600,6 +898,40 @@
     "advancements.adventure.throw_trident.title": "屮了",
     "advancements.adventure.throw_trident.description": "往什么东西扔个屮。",
     // Trident - 三叉戟
+    // End here - 到此结束
+
+    // Acacia - 金合欢
+    "block.minecraft.acacia_button": "金合欢木按钮",
+    "block.minecraft.acacia_door": "金合欢木门",
+    "block.minecraft.acacia_fence": "金合欢木栅栏",
+    "block.minecraft.acacia_fence_gate": "金合欢木栅栏门",
+    "block.minecraft.acacia_leaves": "金合欢树叶",
+    "block.minecraft.acacia_log": "相思日志",
+    "block.minecraft.acacia_planks": "相思木板",
+    "block.minecraft.acacia_pressure_plate": "金合欢木压力板",
+    "block.minecraft.acacia_sapling": "相思树苗",
+    "block.minecraft.acacia_sign": "相思木搞事牌",
+    "block.minecraft.acacia_slab": "相思木半砖",
+    "block.minecraft.acacia_stairs": "相思木楼梯",
+    "block.minecraft.acacia_trapdoor": "相思木陷阱门",
+    "block.minecraft.acacia_wall_sign": "爬墙的相思搞事牌",
+    "block.minecraft.acacia_wall_hanging_sign": "爬墙上吊的相思木搞事牌",
+    "block.minecraft.acacia_hanging_sign": "上吊的相思木搞事牌",
+    "block.minecraft.acacia_wood": "相思木",
+    // Acacia - 金合欢
+    // End here - 到此结束
+
+    // Gravel - 沙砾
+    "block.minecraft.gravel": "沙力",
+    "biome.minecraft.windswept_gravelly_hills": "风了的沙力丘",
+    // Gravel - 沙砾
+    // End here - 到此结束
+
+    // Air - 空气
+    "block.minecraft.air": "慢性自杀气体",
+    "block.minecraft.cave_air": "洞穴里的慢性自杀气体",
+    "block.minecraft.void_air": "虚空里的慢性自杀气体",
+    // Air - 空气
     // End here - 到此结束
 
     "menu.singleplayer": "孤独游玩",
@@ -740,6 +1072,7 @@
     "selectWorld.edit.backupSize": "重量：%s MB",
     "selectWorld.deleteQuestion": "你真的要抛弃这个Sekai吗？",
     "selectWorld.deleteWarning": "“%s”将脱离苦海",
+    "selectWorld.experimental": "小白鼠",
 
     // Waiting for translates - 等待翻译
     // All end here - 已有翻译到此结束
@@ -754,8 +1087,6 @@
     "advancements.adventure.bullseye.title": "正中靶心",
     "advancements.adventure.fall_from_world_height.description": "从世界顶部（建筑高度限制处）自由落体，坠至世界底部并存活下来",
     "advancements.adventure.fall_from_world_height.title": "上天入地",
-    "advancements.adventure.honey_block_slide.description": "跳入蜂蜜块以缓解摔落",
-    "advancements.adventure.honey_block_slide.title": "胶着状态",
     "advancements.adventure.kill_a_mob.description": "杀死任意敌对性怪物",
     "advancements.adventure.kill_a_mob.title": "怪物猎人",
     "advancements.adventure.kill_all_mobs.description": "杀死每一种敌对性怪物",
@@ -812,10 +1143,6 @@
     "advancements.end.respawn_dragon.title": "结束了…再一次…",
     "advancements.end.root.description": "抑或是起点？",
     "advancements.end.root.title": "末地",
-    "advancements.husbandry.allay_deliver_cake_to_note_block.description": "让悦灵向音符盒投掷一块蛋糕",
-    "advancements.husbandry.allay_deliver_cake_to_note_block.title": "生日快乐歌",
-    "advancements.husbandry.allay_deliver_item_to_player.description": "让悦灵向你投掷物品",
-    "advancements.husbandry.allay_deliver_item_to_player.title": "找到一个好朋友",
     "advancements.husbandry.balanced_diet.description": "尝遍天下食材，即便是对身体不好的",
     "advancements.husbandry.balanced_diet.title": "均衡饮食",
     "advancements.husbandry.breed_all_animals.description": "繁殖每种动物！",
@@ -858,24 +1185,16 @@
     "advancements.nether.brew_potion.title": "本地酿造厂",
     "advancements.nether.charge_respawn_anchor.description": "为重生锚充满能量",
     "advancements.nether.charge_respawn_anchor.title": "锚没有九条命",
-    "advancements.nether.create_beacon.description": "建造并放置一个信标",
-    "advancements.nether.create_beacon.title": "带信标回家",
-    "advancements.nether.create_full_beacon.description": "让一座信标发挥最大功效",
-    "advancements.nether.create_full_beacon.title": "信标工程师",
     "advancements.nether.distract_piglin.description": "用金质物品让猪灵分神",
     "advancements.nether.distract_piglin.title": "金光闪闪",
     "advancements.nether.explore_nether.description": "探索所有下界生物群系",
     "advancements.nether.explore_nether.title": "热门景点",
     "advancements.nether.fast_travel.description": "利用下界移动对应主世界7千米的距离",
     "advancements.nether.fast_travel.title": "曲速泡",
-    "advancements.nether.find_bastion.description": "进入堡垒遗迹",
-    "advancements.nether.find_bastion.title": "光辉岁月",
     "advancements.nether.find_fortress.description": "用你的方式进入下界要塞",
     "advancements.nether.find_fortress.title": "阴森的要塞",
     "advancements.nether.get_wither_skull.description": "获得凋灵骷髅的头颅",
     "advancements.nether.get_wither_skull.title": "惊悚恐怖骷髅头",
-    "advancements.nether.loot_bastion.description": "掠夺堡垒遗迹里的箱子",
-    "advancements.nether.loot_bastion.title": "战猪",
     "advancements.nether.obtain_blaze_rod.description": "让烈焰人从烈焰棒中解放吧",
     "advancements.nether.obtain_blaze_rod.title": "与火共舞",
     "advancements.nether.ride_strider.description": "手持诡异菌钓竿骑乘炽足兽",
@@ -890,8 +1209,6 @@
     "advancements.nether.use_lodestone.title": "天涯共此石",
     "advancements.story.cure_zombie_villager.description": "弱化并治疗一名僵尸村民",
     "advancements.story.cure_zombie_villager.title": "僵尸科医生",
-    "advancements.story.enchant_item.description": "在附魔台里附魔一样物品",
-    "advancements.story.enchant_item.title": "附魔师",
     "advancements.story.enter_the_end.description": "进入末地传送门",
     "advancements.story.enter_the_end.title": "结束了？",
     "advancements.story.follow_ender_eye.description": "跟随末影之眼",
@@ -902,16 +1219,12 @@
     "advancements.story.iron_tools.title": "这不是铁镐么",
     "advancements.story.lava_bucket.description": "用桶装点熔岩",
     "advancements.story.lava_bucket.title": "热腾腾的",
-    "advancements.story.mine_diamond.description": "获得钻石",
-    "advancements.story.mine_diamond.title": "钻石！",
     "advancements.story.mine_stone.description": "用你的新镐挖掘石头",
     "advancements.story.mine_stone.title": "石器时代",
     "advancements.story.obtain_armor.description": "用铁盔甲来保护你自己",
     "advancements.story.obtain_armor.title": "整装上阵",
     "advancements.story.root.description": "游戏的核心与故事",
     "advancements.story.root.title": "Minecraft",
-    "advancements.story.shiny_gear.description": "钻石盔甲能救人",
-    "advancements.story.shiny_gear.title": "钻石护体",
     "advancements.story.smelt_iron.description": "冶炼出一块铁锭",
     "advancements.story.smelt_iron.title": "来硬的",
     "advancements.story.upgrade_tools.description": "制作一把更好的镐",
@@ -934,10 +1247,8 @@
     "stat.minecraft.damage_dealt_resisted": "造成伤害（被抵挡）",
     "stat.minecraft.damage_resisted": "抵挡的伤害",
     "stat.minecraft.damage_taken": "受到伤害",
-    "stat.minecraft.deaths": "死亡次数",
     "stat.minecraft.drop": "物品掉落",
     "stat.minecraft.eat_cake_slice": "吃掉的蛋糕片数",
-    "stat.minecraft.enchant_item": "物品附魔次数",
     "stat.minecraft.fall_one_cm": "摔落高度",
     "stat.minecraft.fill_cauldron": "炼药锅装水次数",
     "stat.minecraft.fish_caught": "捕鱼数",
@@ -964,7 +1275,6 @@
     "stat.minecraft.leave_game": "游戏退出次数",
     "stat.minecraft.mob_kills": "生物击杀数",
     "stat.minecraft.open_barrel": "木桶打开次数",
-    "stat.minecraft.open_chest": "箱子打开次数",
     "stat.minecraft.open_enderchest": "末影箱打开次数",
     "stat.minecraft.open_shulker_box": "潜影盒打开次数",
     "stat.minecraft.pig_one_cm": "骑猪移动距离",
@@ -986,7 +1296,6 @@
     "stat.minecraft.total_world_time": "世界打开时间",
     "stat.minecraft.traded_with_villager": "村民交易次数",
     "stat.minecraft.treasure_fished": "钓到宝藏次数",
-    "stat.minecraft.trigger_trapped_chest": "陷阱箱触发次数",
     "stat.minecraft.tune_noteblock": "音符盒调音次数",
     "stat.minecraft.use_cauldron": "从炼药锅取水次数",
     "stat.minecraft.walk_on_water_one_cm": "水面行走距离",
@@ -1018,7 +1327,6 @@
     "menu.playdemo": "开始试玩世界",
     "menu.preparingSpawn": "准备生成区域中：%s%%",
     "menu.resetdemo": "重置试玩世界",
-    "menu.respawning": "重生中",
     "menu.savingChunks": "保存区块中",
     "menu.working": "处理中…",
 
@@ -1489,7 +1797,6 @@
     "biome.minecraft.old_growth_spruce_taiga": "原始云杉针叶林",
     "biome.minecraft.plains": "平原",
     "biome.minecraft.river": "河流",
-    "biome.minecraft.savanna": "热带草原",
     "biome.minecraft.savanna_plateau": "热带高原",
     "biome.minecraft.small_end_islands": "末地小型岛屿",
     "biome.minecraft.snowy_beach": "积雪的沙滩",
@@ -1508,27 +1815,9 @@
     "biome.minecraft.warm_ocean": "暖水海洋",
     "biome.minecraft.warped_forest": "诡异森林",
     "biome.minecraft.windswept_forest": "风袭森林",
-    "biome.minecraft.windswept_gravelly_hills": "风袭沙砾丘陵",
     "biome.minecraft.windswept_hills": "风袭丘陵",
-    "biome.minecraft.windswept_savanna": "风袭热带草原",
     "biome.minecraft.wooded_badlands": "繁茂的恶地",
-    "block.minecraft.acacia_button": "金合欢木按钮",
-    "block.minecraft.acacia_door": "金合欢木门",
-    "block.minecraft.acacia_fence": "金合欢木栅栏",
-    "block.minecraft.acacia_fence_gate": "金合欢木栅栏门",
-    "block.minecraft.acacia_leaves": "金合欢树叶",
-    "block.minecraft.acacia_log": "金合欢原木",
-    "block.minecraft.acacia_planks": "金合欢木板",
-    "block.minecraft.acacia_pressure_plate": "金合欢木压力板",
-    "block.minecraft.acacia_sapling": "金合欢树苗",
-    "block.minecraft.acacia_sign": "金合欢木告示牌",
-    "block.minecraft.acacia_slab": "金合欢木台阶",
-    "block.minecraft.acacia_stairs": "金合欢木楼梯",
-    "block.minecraft.acacia_trapdoor": "金合欢木活板门",
-    "block.minecraft.acacia_wall_sign": "墙上的金合欢木告示牌",
-    "block.minecraft.acacia_wood": "金合欢木",
     "block.minecraft.activator_rail": "激活铁轨",
-    "block.minecraft.air": "空气",
     "block.minecraft.allium": "绒球葱",
     "block.minecraft.amethyst_block": "紫水晶块",
     "block.minecraft.amethyst_cluster": "紫水晶簇",
@@ -2201,7 +2490,6 @@
     "block.minecraft.barrel": "木桶",
     "block.minecraft.barrier": "屏障",
     "block.minecraft.basalt": "玄武岩",
-    "block.minecraft.beacon": "信标",
     "block.minecraft.beacon.primary": "主效果",
     "block.minecraft.beacon.secondary": "辅助效果",
     "block.minecraft.bed.no_sleep": "你只能在夜间或雷暴中入眠",
@@ -2305,19 +2593,15 @@
     "block.minecraft.cartography_table": "制图台",
     "block.minecraft.carved_pumpkin": "雕刻过的南瓜",
     "block.minecraft.cauldron": "炼药锅",
-    "block.minecraft.cave_air": "洞穴空气",
     "block.minecraft.cave_vines": "洞穴藤蔓",
     "block.minecraft.cave_vines_plant": "洞穴藤蔓植株",
     "block.minecraft.chain": "锁链",
     "block.minecraft.chain_command_block": "连锁型命令方块",
-    "block.minecraft.chest": "箱子",
     "block.minecraft.chipped_anvil": "开裂的铁砧",
     "block.minecraft.chiseled_deepslate": "錾制深板岩",
     "block.minecraft.chiseled_nether_bricks": "錾制下界砖块",
     "block.minecraft.chiseled_polished_blackstone": "錾制磨制黑石",
     "block.minecraft.chiseled_quartz_block": "錾制石英块",
-    "block.minecraft.chiseled_red_sandstone": "錾制红砂岩",
-    "block.minecraft.chiseled_sandstone": "錾制砂岩",
     "block.minecraft.chiseled_stone_bricks": "錾制石砖",
     "block.minecraft.chorus_flower": "紫颂花",
     "block.minecraft.chorus_plant": "紫颂植株",
@@ -2368,10 +2652,6 @@
     "block.minecraft.cut_copper": "切制铜块",
     "block.minecraft.cut_copper_slab": "切制铜台阶",
     "block.minecraft.cut_copper_stairs": "切制铜楼梯",
-    "block.minecraft.cut_red_sandstone": "切制红砂岩",
-    "block.minecraft.cut_red_sandstone_slab": "切制红砂岩台阶",
-    "block.minecraft.cut_sandstone": "切制砂岩",
-    "block.minecraft.cut_sandstone_slab": "切制砂岩台阶",
     "block.minecraft.cyan_banner": "青色旗帜",
     "block.minecraft.cyan_bed": "青色床",
     "block.minecraft.cyan_candle": "青色蜡烛",
@@ -2434,8 +2714,6 @@
     "block.minecraft.deepslate_bricks": "深板岩砖",
     "block.minecraft.deepslate_coal_ore": "深层煤矿石",
     "block.minecraft.deepslate_copper_ore": "深层铜矿石",
-    "block.minecraft.deepslate_diamond_ore": "深层钻石矿石",
-    "block.minecraft.deepslate_emerald_ore": "深层绿宝石矿石",
     "block.minecraft.deepslate_gold_ore": "深层金矿石",
     "block.minecraft.deepslate_iron_ore": "深层铁矿石",
     "block.minecraft.deepslate_lapis_ore": "深层青金石矿石",
@@ -2444,8 +2722,6 @@
     "block.minecraft.deepslate_tile_wall": "深板岩瓦墙",
     "block.minecraft.deepslate_tiles": "深板岩瓦",
     "block.minecraft.detector_rail": "探测铁轨",
-    "block.minecraft.diamond_block": "钻石块",
-    "block.minecraft.diamond_ore": "钻石矿石",
     "block.minecraft.diorite": "闪长岩",
     "block.minecraft.diorite_slab": "闪长岩台阶",
     "block.minecraft.diorite_stairs": "闪长岩楼梯",
@@ -2461,7 +2737,6 @@
     "block.minecraft.dropper": "投掷器",
     "block.minecraft.emerald_block": "绿宝石块",
     "block.minecraft.emerald_ore": "绿宝石矿石",
-    "block.minecraft.enchanting_table": "附魔台",
     "block.minecraft.end_gateway": "末地折跃门",
     "block.minecraft.end_portal": "末地传送门",
     "block.minecraft.end_portal_frame": "末地传送门框架",
@@ -2500,9 +2775,6 @@
     "block.minecraft.granite_slab": "花岗岩台阶",
     "block.minecraft.granite_stairs": "花岗岩楼梯",
     "block.minecraft.granite_wall": "花岗岩墙",
-    "block.minecraft.grass": "草",
-    "block.minecraft.grass_block": "草方块",
-    "block.minecraft.gravel": "沙砾",
     "block.minecraft.gray_banner": "灰色旗帜",
     "block.minecraft.gray_bed": "灰色床",
     "block.minecraft.gray_candle": "灰色蜡烛",
@@ -2531,9 +2803,7 @@
     "block.minecraft.green_wool": "绿色羊毛",
     "block.minecraft.grindstone": "砂轮",
     "block.minecraft.hanging_roots": "垂根",
-    "block.minecraft.hay_block": "干草块",
     "block.minecraft.heavy_weighted_pressure_plate": "重质测重压力板",
-    "block.minecraft.honey_block": "蜂蜜块",
     "block.minecraft.honeycomb_block": "蜜脾块",
     "block.minecraft.hopper": "漏斗",
     "block.minecraft.horn_coral": "鹿角珊瑚",
@@ -2579,7 +2849,6 @@
     "block.minecraft.lapis_ore": "青金石矿石",
     "block.minecraft.large_amethyst_bud": "大型紫晶芽",
     "block.minecraft.large_fern": "大型蕨",
-    "block.minecraft.lava": "熔岩",
     "block.minecraft.lava_cauldron": "装有熔岩的炼药锅",
     "block.minecraft.lectern": "讲台",
     "block.minecraft.lever": "拉杆",
@@ -2611,7 +2880,6 @@
     "block.minecraft.light_gray_terracotta": "淡灰色陶瓦",
     "block.minecraft.light_gray_wool": "淡灰色羊毛",
     "block.minecraft.light_weighted_pressure_plate": "轻质测重压力板",
-    "block.minecraft.lightning_rod": "避雷针",
     "block.minecraft.lilac": "丁香",
     "block.minecraft.lily_of_the_valley": "铃兰",
     "block.minecraft.lily_pad": "睡莲",
@@ -2868,11 +3136,6 @@
     "block.minecraft.red_nether_brick_stairs": "红色下界砖楼梯",
     "block.minecraft.red_nether_brick_wall": "红色下界砖墙",
     "block.minecraft.red_nether_bricks": "红色下界砖块",
-    "block.minecraft.red_sand": "红沙",
-    "block.minecraft.red_sandstone": "红砂岩",
-    "block.minecraft.red_sandstone_slab": "红砂岩台阶",
-    "block.minecraft.red_sandstone_stairs": "红砂岩楼梯",
-    "block.minecraft.red_sandstone_wall": "红砂岩墙",
     "block.minecraft.red_shulker_box": "红色潜影盒",
     "block.minecraft.red_stained_glass": "红色染色玻璃",
     "block.minecraft.red_stained_glass_pane": "红色染色玻璃板",
@@ -2885,11 +3148,6 @@
     "block.minecraft.respawn_anchor": "重生锚",
     "block.minecraft.rooted_dirt": "缠根泥土",
     "block.minecraft.rose_bush": "玫瑰丛",
-    "block.minecraft.sand": "沙子",
-    "block.minecraft.sandstone": "砂岩",
-    "block.minecraft.sandstone_slab": "砂岩台阶",
-    "block.minecraft.sandstone_stairs": "砂岩楼梯",
-    "block.minecraft.sandstone_wall": "砂岩墙",
     "block.minecraft.scaffolding": "脚手架",
     "block.minecraft.sculk": "幽匿块",
     "block.minecraft.sculk_catalyst": "幽匿催发体",
@@ -2898,13 +3156,9 @@
     "block.minecraft.sculk_vein": "幽匿脉络",
     "block.minecraft.sea_lantern": "海晶灯",
     "block.minecraft.sea_pickle": "海泡菜",
-    "block.minecraft.seagrass": "海草",
     "block.minecraft.set_spawn": "已设置重生点",
     "block.minecraft.shroomlight": "菌光体",
     "block.minecraft.shulker_box": "潜影盒",
-    "block.minecraft.skeleton_skull": "骷髅头颅",
-    "block.minecraft.skeleton_wall_skull": "墙上的骷髅头颅",
-    "block.minecraft.slime_block": "黏液块",
     "block.minecraft.small_amethyst_bud": "小型紫晶芽",
     "block.minecraft.small_dripleaf": "小型垂滴叶",
     "block.minecraft.smithing_table": "锻造台",
@@ -2913,20 +3167,11 @@
     "block.minecraft.smooth_quartz": "平滑石英块",
     "block.minecraft.smooth_quartz_slab": "平滑石英台阶",
     "block.minecraft.smooth_quartz_stairs": "平滑石英楼梯",
-    "block.minecraft.smooth_red_sandstone": "平滑红砂岩",
-    "block.minecraft.smooth_red_sandstone_slab": "平滑红砂岩台阶",
-    "block.minecraft.smooth_red_sandstone_stairs": "平滑红砂岩楼梯",
-    "block.minecraft.smooth_sandstone": "平滑砂岩",
-    "block.minecraft.smooth_sandstone_slab": "平滑砂岩台阶",
-    "block.minecraft.smooth_sandstone_stairs": "平滑砂岩楼梯",
-    "block.minecraft.smooth_stone": "平滑石头",
-    "block.minecraft.smooth_stone_slab": "平滑石头台阶",
     "block.minecraft.snow": "雪",
     "block.minecraft.snow_block": "雪块",
     "block.minecraft.soul_campfire": "灵魂营火",
     "block.minecraft.soul_fire": "灵魂火",
     "block.minecraft.soul_lantern": "灵魂灯笼",
-    "block.minecraft.soul_sand": "灵魂沙",
     "block.minecraft.soul_soil": "灵魂土",
     "block.minecraft.soul_torch": "灵魂火把",
     "block.minecraft.soul_wall_torch": "墙上的灵魂火把",
@@ -2950,16 +3195,6 @@
     "block.minecraft.spruce_wall_sign": "墙上的云杉木告示牌",
     "block.minecraft.spruce_wood": "云杉木",
     "block.minecraft.sticky_piston": "黏性活塞",
-    "block.minecraft.stone": "石头",
-    "block.minecraft.stone_brick_slab": "石砖台阶",
-    "block.minecraft.stone_brick_stairs": "石砖楼梯",
-    "block.minecraft.stone_brick_wall": "石砖墙",
-    "block.minecraft.stone_bricks": "石砖",
-    "block.minecraft.stone_button": "石头按钮",
-    "block.minecraft.stone_pressure_plate": "石头压力板",
-    "block.minecraft.stone_slab": "石头台阶",
-    "block.minecraft.stone_stairs": "石头楼梯",
-    "block.minecraft.stonecutter": "切石机",
     "block.minecraft.stripped_acacia_log": "去皮金合欢原木",
     "block.minecraft.stripped_acacia_wood": "去皮金合欢木",
     "block.minecraft.stripped_birch_log": "去皮白桦原木",
@@ -2983,13 +3218,9 @@
     "block.minecraft.sugar_cane": "甘蔗",
     "block.minecraft.sunflower": "向日葵",
     "block.minecraft.sweet_berry_bush": "甜浆果丛",
-    "block.minecraft.tall_grass": "高草丛",
-    "block.minecraft.tall_seagrass": "高海草",
     "block.minecraft.target": "标靶",
     "block.minecraft.terracotta": "陶瓦",
     "block.minecraft.tinted_glass": "遮光玻璃",
-    "block.minecraft.torch": "火把",
-    "block.minecraft.trapped_chest": "陷阱箱",
     "block.minecraft.tripwire": "绊线",
     "block.minecraft.tripwire_hook": "绊线钩",
     "block.minecraft.tube_coral": "管珊瑚",
@@ -3002,7 +3233,6 @@
     "block.minecraft.twisting_vines_plant": "缠怨藤植株",
     "block.minecraft.verdant_froglight": "青翠蛙明灯",
     "block.minecraft.vine": "藤蔓",
-    "block.minecraft.void_air": "虚空空气",
     "block.minecraft.wall_torch": "墙上的火把",
     "block.minecraft.warped_button": "诡异木按钮",
     "block.minecraft.warped_door": "诡异木门",
@@ -3046,7 +3276,6 @@
     "block.minecraft.weeping_vines": "垂泪藤",
     "block.minecraft.weeping_vines_plant": "垂泪藤植株",
     "block.minecraft.wet_sponge": "湿海绵",
-    "block.minecraft.wheat": "小麦",
     "block.minecraft.white_banner": "白色旗帜",
     "block.minecraft.white_bed": "白色床",
     "block.minecraft.white_candle": "白色蜡烛",
@@ -3562,17 +3791,13 @@
     "connect.failed": "无法连接至服务器",
     "connect.negotiating": "连接协商中…",
     "container.barrel": "木桶",
-    "container.beacon": "信标",
     "container.blast_furnace": "高炉",
     "container.brewing": "酿造台",
     "container.cartography_table": "制图台",
-    "container.chest": "箱子",
-    "container.chestDouble": "大型箱子",
     "container.crafting": "合成",
     "container.creative": "物品选栏",
     "container.dispenser": "发射器",
     "container.dropper": "投掷器",
-    "container.enchant": "附魔",
     "container.enchant.clue": "%s…？",
     "container.enchant.lapis.many": "花费：%s颗青金石",
     "container.enchant.lapis.one": "花费：1颗青金石",
@@ -3588,7 +3813,6 @@
     "container.lectern": "讲台",
     "container.loom": "织布机",
     "container.repair": "修复和命名",
-    "container.repair.cost": "附魔花费：%1$s",
     "container.repair.expensive": "过于昂贵！",
     "container.shulkerBox": "潜影盒",
     "container.shulkerBox.more": "还有%s项未显示…",
@@ -3902,10 +4126,8 @@
     "enchantment.minecraft.sweeping": "横扫之刃",
     "enchantment.minecraft.swift_sneak": "迅捷潜行",
     "enchantment.minecraft.thorns": "荆棘",
-    "enchantment.minecraft.unbreaking": "耐久",
     "enchantment.minecraft.vanishing_curse": "消失诅咒",
     "enchantment.unknown": "未知的魔咒：%s",
-    "entity.minecraft.allay": "悦灵",
     "entity.minecraft.area_effect_cloud": "区域效果云",
     "entity.minecraft.armor_stand": "盔甲架",
     "entity.minecraft.arrow": "箭",
@@ -3915,8 +4137,6 @@
     "entity.minecraft.boat": "船",
     "entity.minecraft.cat": "猫",
     "entity.minecraft.cave_spider": "洞穴蜘蛛",
-    "entity.minecraft.chest_boat": "运输船",
-    "entity.minecraft.chest_minecart": "运输矿车",
     "entity.minecraft.cod": "鳕鱼",
     "entity.minecraft.command_block_minecart": "命令方块矿车",
     "entity.minecraft.cow": "牛",
@@ -3933,7 +4153,6 @@
     "entity.minecraft.endermite": "末影螨",
     "entity.minecraft.evoker": "唤魔者",
     "entity.minecraft.evoker_fangs": "唤魔者尖牙",
-    "entity.minecraft.experience_bottle": "掷出的附魔之瓶",
     "entity.minecraft.experience_orb": "经验球",
     "entity.minecraft.eye_of_ender": "末影之眼",
     "entity.minecraft.falling_block": "下落的方块",
@@ -3941,7 +4160,6 @@
     "entity.minecraft.firework_rocket": "烟花火箭",
     "entity.minecraft.fishing_bobber": "浮漂",
     "entity.minecraft.fox": "狐狸",
-    "entity.minecraft.frog": "青蛙",
     "entity.minecraft.furnace_minecart": "动力矿车",
     "entity.minecraft.ghast": "恶魂",
     "entity.minecraft.giant": "巨人",
@@ -3964,7 +4182,6 @@
     "entity.minecraft.llama_spit": "羊驼唾沫",
     "entity.minecraft.magma_cube": "岩浆怪",
     "entity.minecraft.marker": "标记",
-    "entity.minecraft.minecart": "矿车",
     "entity.minecraft.mooshroom": "哞菇",
     "entity.minecraft.mule": "骡",
     "entity.minecraft.ocelot": "豹猫",
@@ -3987,9 +4204,6 @@
     "entity.minecraft.shulker": "潜影贝",
     "entity.minecraft.shulker_bullet": "潜影弹",
     "entity.minecraft.silverfish": "蠹虫",
-    "entity.minecraft.skeleton": "骷髅",
-    "entity.minecraft.skeleton_horse": "骷髅马",
-    "entity.minecraft.slime": "史莱姆",
     "entity.minecraft.small_fireball": "小火球",
     "entity.minecraft.snow_golem": "雪傀儡",
     "entity.minecraft.snowball": "雪球",
@@ -3997,7 +4211,6 @@
     "entity.minecraft.spectral_arrow": "光灵箭",
     "entity.minecraft.spider": "蜘蛛",
     "entity.minecraft.squid": "鱿鱼",
-    "entity.minecraft.stray": "流浪者",
     "entity.minecraft.strider": "炽足兽",
     "entity.minecraft.tadpole": "蝌蚪",
     "entity.minecraft.trader_llama": "行商羊驼",
@@ -4215,7 +4428,6 @@
     "item.minecraft.cooked_porkchop": "熟猪排",
     "item.minecraft.cooked_rabbit": "熟兔肉",
     "item.minecraft.cooked_salmon": "熟鲑鱼",
-    "item.minecraft.cookie": "曲奇",
     "item.minecraft.copper_ingot": "铜锭",
     "item.minecraft.creeper_banner_pattern": "旗帜图案",
     "item.minecraft.creeper_banner_pattern.desc": "苦力怕盾徽",
@@ -4228,17 +4440,6 @@
     "item.minecraft.debug_stick.empty": "%s不具备属性",
     "item.minecraft.debug_stick.select": "已选择“%s”（%s）",
     "item.minecraft.debug_stick.update": "“%s”设为%s",
-    "item.minecraft.diamond": "钻石",
-    "item.minecraft.diamond_axe": "钻石斧",
-    "item.minecraft.diamond_boots": "钻石靴子",
-    "item.minecraft.diamond_chestplate": "钻石胸甲",
-    "item.minecraft.diamond_helmet": "钻石头盔",
-    "item.minecraft.diamond_hoe": "钻石锄",
-    "item.minecraft.diamond_horse_armor": "钻石马铠",
-    "item.minecraft.diamond_leggings": "钻石护腿",
-    "item.minecraft.diamond_pickaxe": "钻石镐",
-    "item.minecraft.diamond_shovel": "钻石锹",
-    "item.minecraft.diamond_sword": "钻石剑",
     "item.minecraft.disc_fragment_5": "唱片残片",
     "item.minecraft.disc_fragment_5.desc": "音乐唱片 - 5",
 
@@ -4247,12 +4448,9 @@
     "item.minecraft.echo_shard": "回响碎片",
     "item.minecraft.elytra": "鞘翅",
     "item.minecraft.emerald": "绿宝石",
-    "item.minecraft.enchanted_book": "附魔书",
     "item.minecraft.end_crystal": "末地水晶",
     "item.minecraft.ender_eye": "末影之眼",
     "item.minecraft.ender_pearl": "末影珍珠",
-    "item.minecraft.experience_bottle": "附魔之瓶",
-    "item.minecraft.feather": "羽毛",
     "item.minecraft.fermented_spider_eye": "发酵蛛眼",
     "item.minecraft.filled_map": "地图",
     "item.minecraft.fire_charge": "火焰弹",
@@ -4384,7 +4582,6 @@
     "item.minecraft.melon_seeds": "西瓜种子",
     "item.minecraft.melon_slice": "西瓜片",
     "item.minecraft.milk_bucket": "奶桶",
-    "item.minecraft.minecart": "矿车",
     "item.minecraft.mojang_banner_pattern": "旗帜图案",
     "item.minecraft.mojang_banner_pattern.desc": "Mojang徽标",
     "item.minecraft.mushroom_stew": "蘑菇煲",
@@ -4505,7 +4702,6 @@
     "item.minecraft.sign": "告示牌",
     "item.minecraft.skull_banner_pattern": "旗帜图案",
     "item.minecraft.skull_banner_pattern.desc": "头颅盾徽",
-    "item.minecraft.slime_ball": "黏液球",
     "item.minecraft.snowball": "雪球",
     "item.minecraft.spectral_arrow": "光灵箭",
     "item.minecraft.spider_eye": "蜘蛛眼",
@@ -4573,8 +4769,6 @@
     "item.minecraft.turtle_helmet": "海龟壳",
     "item.minecraft.warped_fungus_on_a_stick": "诡异菌钓竿",
     "item.minecraft.water_bucket": "水桶",
-    "item.minecraft.wheat": "小麦",
-    "item.minecraft.wheat_seeds": "小麦种子",
     "item.minecraft.white_dye": "白色染料",
     "item.minecraft.wooden_axe": "木斧",
     "item.minecraft.wooden_hoe": "木锄",
@@ -4593,9 +4787,6 @@
     "item.nbt_tags": "NBT：%s个标签",
     "item.unbreakable": "无法破坏",
     
-    "itemGroup.materials": "材料",
-    "itemGroup.misc": "杂项",
-    "itemGroup.transportation": "交通运输",
     "item_modifier.unknown": "未知的物品修饰器：%s",
     "jigsaw_block.final_state": "转变为：",
     "jigsaw_block.generate": "生成",
@@ -4931,7 +5122,6 @@
     "spectatorMenu.teleport": "传送到玩家",
     "spectatorMenu.teleport.prompt": "选择一名玩家作为传送目标",
 
-    "stats.tooltip.type.statistic": "统计",
     "structure_block.button.detect_size": "探测",
     "structure_block.button.load": "加载",
     "structure_block.button.save": "保存",
@@ -4979,10 +5169,6 @@
     "subtitles.block.anvil.use": "铁砧：使用",
     "subtitles.block.barrel.close": "木桶：关闭",
     "subtitles.block.barrel.open": "木桶：打开",
-    "subtitles.block.beacon.activate": "信标：激活",
-    "subtitles.block.beacon.ambient": "信标：嗡嗡作响",
-    "subtitles.block.beacon.deactivate": "信标：失效",
-    "subtitles.block.beacon.power_select": "信标：选择效果",
     "subtitles.block.beehive.drip": "蜂蜜：滴落",
     "subtitles.block.beehive.enter": "蜜蜂：入巢",
     "subtitles.block.beehive.exit": "蜜蜂：离巢",
@@ -5003,9 +5189,6 @@
     "subtitles.block.cake.add_candle": "蛋糕：吧唧",
     "subtitles.block.campfire.crackle": "营火：噼啪作响",
     "subtitles.block.candle.crackle": "蜡烛：噼啪作响",
-    "subtitles.block.chest.close": "箱子：关闭",
-    "subtitles.block.chest.locked": "箱子：锁上",
-    "subtitles.block.chest.open": "箱子：开启",
     "subtitles.block.chorus_flower.death": "紫颂花：凋零",
     "subtitles.block.chorus_flower.grow": "紫颂花：生长",
     "subtitles.block.comparator.click": "比较器：模式变更",
@@ -5019,7 +5202,6 @@
     "subtitles.block.dispenser.dispense": "发射器：发射物品",
     "subtitles.block.dispenser.fail": "发射器：发射失败",
     "subtitles.block.door.toggle": "门：嘎吱作响",
-    "subtitles.block.enchantment_table.use": "附魔台：使用",
     "subtitles.block.end_portal.spawn": "末地传送门：开启",
     "subtitles.block.end_portal_frame.fill": "末影之眼：嵌入",
     "subtitles.block.fence_gate.toggle": "栅栏门：嘎吱作响",
@@ -5033,7 +5215,6 @@
     "subtitles.block.generic.place": "方块：被放置",
     "subtitles.block.grindstone.use": "砂轮：使用",
     "subtitles.block.growing_plant.crop": "植物：被修剪",
-    "subtitles.block.honey_block.slide": "从蜂蜜块滑下",
     "subtitles.block.iron_trapdoor.close": "活板门：关闭",
     "subtitles.block.iron_trapdoor.open": "活板门：打开",
     "subtitles.block.lava.ambient": "熔岩：迸裂",
@@ -5073,13 +5254,6 @@
     "subtitles.block.tripwire.detach": "绊线：断开",
     "subtitles.block.water.ambient": "水：流动",
     "subtitles.enchant.thorns.hit": "荆棘：反刺",
-    "subtitles.entity.allay.ambient_with_item": "悦灵：搜寻",
-    "subtitles.entity.allay.ambient_without_item": "悦灵：渴求",
-    "subtitles.entity.allay.death": "悦灵：死亡",
-    "subtitles.entity.allay.hurt": "悦灵：受伤",
-    "subtitles.entity.allay.item_given": "悦灵：嬉笑",
-    "subtitles.entity.allay.item_taken": "悦灵：愉悦",
-    "subtitles.entity.allay.item_thrown": "悦灵：投掷",
     "subtitles.entity.armor_stand.fall": "某物：着地",
     "subtitles.entity.arrow.hit": "箭：击中",
     "subtitles.entity.arrow.hit_player": "箭：击中玩家",
@@ -5131,7 +5305,6 @@
     "subtitles.entity.dolphin.swim": "海豚：游泳",
     "subtitles.entity.donkey.ambient": "驴：嘶叫",
     "subtitles.entity.donkey.angry": "驴：嘶鸣",
-    "subtitles.entity.donkey.chest": "驴：装备箱子",
     "subtitles.entity.donkey.death": "驴：死亡",
     "subtitles.entity.donkey.eat": "驴：进食",
     "subtitles.entity.donkey.hurt": "驴：受伤",
@@ -5285,7 +5458,6 @@
     "subtitles.entity.lightning_bolt.thunder": "雷鸣",
     "subtitles.entity.llama.ambient": "羊驼：吼叫",
     "subtitles.entity.llama.angry": "羊驼：怒吼",
-    "subtitles.entity.llama.chest": "羊驼：装备箱子",
     "subtitles.entity.llama.death": "羊驼：死亡",
     "subtitles.entity.llama.eat": "羊驼：进食",
     "subtitles.entity.llama.hurt": "羊驼：受伤",
@@ -5295,14 +5467,12 @@
     "subtitles.entity.magma_cube.death": "岩浆怪：死亡",
     "subtitles.entity.magma_cube.hurt": "岩浆怪：受伤",
     "subtitles.entity.magma_cube.squish": "岩浆怪：挤压",
-    "subtitles.entity.minecart.riding": "矿车：行进",
     "subtitles.entity.mooshroom.convert": "哞菇：转化",
     "subtitles.entity.mooshroom.eat": "哞菇：进食",
     "subtitles.entity.mooshroom.milk": "哞菇：被挤奶",
     "subtitles.entity.mooshroom.suspicious_milk": "哞菇：被可疑地挤奶",
     "subtitles.entity.mule.ambient": "骡：鸣叫",
     "subtitles.entity.mule.angry": "骡：嘶鸣",
-    "subtitles.entity.mule.chest": "骡：装备箱子",
     "subtitles.entity.mule.death": "骡：死亡",
     "subtitles.entity.mule.eat": "骡：进食",
     "subtitles.entity.mule.hurt": "骡：受伤",
@@ -5443,19 +5613,6 @@
     "subtitles.entity.silverfish.ambient": "蠹虫：嘶嘶",
     "subtitles.entity.silverfish.death": "蠹虫：死亡",
     "subtitles.entity.silverfish.hurt": "蠹虫：受伤",
-    "subtitles.entity.skeleton.ambient": "骷髅：咯咯声",
-    "subtitles.entity.skeleton.converted_to_stray": "骷髅：转化为流浪者",
-    "subtitles.entity.skeleton.death": "骷髅：死亡",
-    "subtitles.entity.skeleton.hurt": "骷髅：受伤",
-    "subtitles.entity.skeleton.shoot": "骷髅：射击",
-    "subtitles.entity.skeleton_horse.ambient": "骷髅马：嘶叫",
-    "subtitles.entity.skeleton_horse.death": "骷髅马：死亡",
-    "subtitles.entity.skeleton_horse.hurt": "骷髅马：受伤",
-    "subtitles.entity.skeleton_horse.swim": "骷髅马：游泳",
-    "subtitles.entity.slime.attack": "史莱姆：攻击",
-    "subtitles.entity.slime.death": "史莱姆：死亡",
-    "subtitles.entity.slime.hurt": "史莱姆：受伤",
-    "subtitles.entity.slime.squish": "史莱姆：挤压",
     "subtitles.entity.snow_golem.death": "雪傀儡：死亡",
     "subtitles.entity.snow_golem.hurt": "雪傀儡：受伤",
     "subtitles.entity.snowball.throw": "雪球：飞出",
@@ -5466,9 +5623,6 @@
     "subtitles.entity.squid.death": "鱿鱼：死亡",
     "subtitles.entity.squid.hurt": "鱿鱼：受伤",
     "subtitles.entity.squid.squirt": "鱿鱼：喷墨",
-    "subtitles.entity.stray.ambient": "流浪者：咯咯声",
-    "subtitles.entity.stray.death": "流浪者：死亡",
-    "subtitles.entity.stray.hurt": "流浪者：受伤",
     "subtitles.entity.strider.death": "炽足兽：死亡",
     "subtitles.entity.strider.eat": "炽足兽：进食",
     "subtitles.entity.strider.happy": "炽足兽：颤鸣",
@@ -5599,7 +5753,6 @@
     "subtitles.event.raid.horn": "不祥号角：鸣响",
     "subtitles.item.armor.equip": "盔甲：装备",
     "subtitles.item.armor.equip_chain": "锁链盔甲：碰擦",
-    "subtitles.item.armor.equip_diamond": "钻石盔甲：碰擦",
     "subtitles.item.armor.equip_elytra": "鞘翅：沙沙作响",
     "subtitles.item.armor.equip_gold": "黄金盔甲：叮当",
     "subtitles.item.armor.equip_iron": "铁质盔甲：铿锵",
