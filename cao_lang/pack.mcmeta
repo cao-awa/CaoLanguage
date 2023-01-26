@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "pack_format": 12,
+        "description": "§e草语包！！！\nIcon来自梗体中文！"
+    },
+    "language": {
+        "z_cao": {
+            "name": "§e草语§r",
+            "region": "§c异世界§r",
+            "bidirectional": false
+        }
+    },
+    "author": [
+        "cao_awa",
+        "Linxuan"
+    ],
+    "home": "https://github.com/cao-awa/CaoLanguage",
+    "copyright": "基于CC4.0协议，从 https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack 至： https://github.com/cao-awa/CaoLanguage"
+}
